@@ -25,8 +25,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: Mahajanani.R
-# Register Number: 24003555
+# Developed By: Kathiresh.M
+# Register Number: 24901022
 import cv2
 import matplotlib.pyplot as plt 
 Gray_image=cv2.imread("Eagle_in_Flight_Grayscale.png")
